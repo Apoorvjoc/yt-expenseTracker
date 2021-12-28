@@ -48,7 +48,7 @@ export default function App() {
     });
     setInc(currInc);
   });
-
+  //rendering components
   return (
     <View style={styles.container}>
       <Text>-----------Expense Tracker---------</Text>
